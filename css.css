@@ -1,137 +1,136 @@
-.pad{
+.pad {
     padding-top: 10px;
-    margin:0px;
-    font-size:30px;
-}
-.widd{
-    width: 60%;
-    padding-left:20%;
+    margin: 0px;
+    font-size: 30px;
 }
 
-#P1{
+.widd {
+    width: 60%;
+    padding-left: 20%;
+}
+
+#P1 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: auto;
-    margin:auto;
-    width:800px;
-    height:500px;
+    margin: auto;
+    width: 1200px;
+    height: 500px;
     background-image: linear-gradient(#DB9C2C, #FFD83D);
     border-style: groove;
     border-bottom-style: none;
 }
 
-#P2{
+#P2 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: auto;
-    margin:auto;
-    width:800px;
-    height:800px;
+    margin: auto;
+    width: 1200px;
+    height: 800px;
     background-image: linear-gradient(#FFD83D, orange);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-#P3{
+#P3 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: auto;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 400px;
     background-image: linear-gradient(orange, #FFD83D);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-#P4{
+#P4 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: auto;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 400px;
     background-image: linear-gradient(#FFD83D, orange);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-
-#P5{
+#P5 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: 0px;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 700px;
     background-image: linear-gradient(orange, #FFD83D);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-#P6{
+#P6 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: 0px;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 400px;
     background-image: linear-gradient(#FFD83D, orange);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-#P7{
+#P7 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: 0px;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 750px;
     background-image: linear-gradient(orange, #FFD83D);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
 
-#P8{
+#P8 {
     align-items: center;
     align-content: center;
     text-align: center;
     padding: 0px;
-    margin:auto;
-    width:800px;
-    height:400px;
+    margin: auto;
+    width: 1200px;
+    height: 400px;
     background-image: linear-gradient(#FFD83D, orange);
     border-style: groove;
     border-top-style: none;
     border-bottom-style: none;
 }
-
 
 .oof {
-    font-size:35px;
+    font-size: 35px;
     font-family: 'Faster One', cursive;
     padding: 10px
 }
 
-.bigoof{
+.bigoof {
     font-family: 'Knewave', cursive;
 }
 
-.omegaoof{
+.omegaoof {
     font-family: 'Oxygen Mono', cursive;
     font-size: 20px;
 }
